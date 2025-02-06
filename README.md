@@ -13,7 +13,7 @@
 
 <h4 align="left">Languages and Tools:</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,docker,mysql,firebase,android,ios,ai,ps,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,docker,mysql,firebase,androidstudio,apple,ai,ps,figma)](https://skillicons.dev)
 
 
 
