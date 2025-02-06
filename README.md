@@ -1,6 +1,6 @@
 ### Hi 👋, I'm TKG
 
-I'm a Japanese developer aspiring to be a Hustler. Currently learning React.
+I'm a Japanese developer aspiring to be a Hustler.<br>Currently learning React.<br>
 All products are the results of my learning journey.
 
 <h4 align="left">Languages and Tools:</h4>
@@ -17,17 +17,17 @@ All products are the results of my learning journey.
 
 <h4 align="left">My Product:</h4>
 
-<div align="center">
+<div align="left">
   <a href="https://tkg-geek.github.io/cheeseacademy/">
-    <img src="img/cheeseacademy.jpg" width="400" />
+    <img src="img/cheeseacademy.jpg" width="200" />
   </a>
   <h5>Cheese Academy</h5>
   <p>チーズ界の革命時によるチーズスクール（架空）のLP。</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://tkgeek.sakura.ne.jp/one_sentence/">
-    <img src="img/onesentence.png" width="400" />
+    <img src="img/onesentence.png" width="200" />
   </a>
   <h5>one sentence</h5>
   <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
@@ -38,51 +38,51 @@ All products are the results of my learning journey.
   </p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://tkgeek.sakura.ne.jp/chat01/">
-    <img src="img/chatTKG.png" width="400" />
+    <img src="img/chatTKG.png" width="200" />
   </a>
   <h5>Chat TKG</h5>
   <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
   （現在APIをoffにしているためサンプルテキストを表示しています）</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo">
-    <img src="img/okan.png" width="400" />
+    <img src="img/okan.png" width="100" />
   </a>
   <h5>オカンですよ</h5>
   <p>「オカン」による、時間管理と自己管理サポート & ネット依存から脱却するためのタイマーです。</p>
 </div>
 
-<div align="center">
+<div align="left"></div>
   <a href="https://poipoi-zd20.onrender.com/">
-    <img src="img/poipoi.png" width="400" />
+    <img src="img/poipoi.png" width="200" />
   </a>
   <h5>PoiPoi</h5>
   <p>「感謝」や「褒め」を自分でポイント発行し送り合う、自律分散型ポイントサービスです。</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://tkgeek.sakura.ne.jp/todoke2/">
-    <img src="img/todoke.png" width="400" />
+    <img src="img/todoke.png" width="200" />
   </a>
   <h5>TODOKE</h5>
   <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
   （現在有害コメントをはじくAPIはOFFにしてあります）</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://tkgeek.sakura.ne.jp/taggy/">
-    <img src="img/taggy.png" width="400" />
+    <img src="img/taggy.png" width="200" />
   </a>
   <h5>TAGGY</h5>
   <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://tkgeek.sakura.ne.jp/felizo/">
-    <img src="img/felizo.png" width="400" />
+    <img src="img/felizo.png" width="200" />
   </a>
   <h5>Felizo</h5>
   <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
