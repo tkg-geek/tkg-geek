@@ -42,8 +42,8 @@ These products below are the results of my learning journey ✨
         <img src="img/cheeseacademy.jpg" width="220" />
       </a>
       <h4>Cheese Academy</h4>
-      <p>チーズ界の革命児によるチーズスクール（架空）のLP。</p>
     </div>
+    <p>チーズ界の革命児によるチーズスクール（架空）のLP。</p>
   </td>
   <td width="33%">
     <div align="center">
@@ -51,13 +51,13 @@ These products below are the results of my learning journey ✨
         <img src="img/onesentence.png" width="200" />
       </a>
       <h4>one sentence</h4>
-      <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
-      <p>
-        <a href="https://tkgeek.sakura.ne.jp/one_sentence/" target="_blank">[PWA]</a> |
-        <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852" target="_blank">[iOS]</a> |
-        [Android]（審査中）
-      </p>
     </div>
+    <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
+    <p>
+      <a href="https://tkgeek.sakura.ne.jp/one_sentence/" target="_blank">[PWA]</a> |
+      <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852" target="_blank">[iOS]</a> |
+      [Android]（審査中）
+    </p>
   </td>
   <td width="33%">
     <div align="center">
@@ -65,9 +65,9 @@ These products below are the results of my learning journey ✨
         <img src="img/chatTKG.png" width="160" />
       </a>
       <h4>Chat TKG</h4>
-      <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
-      （現在APIをoffにしているためサンプルテキストを表示しています）</p>
     </div>
+    <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
+    （現在APIをoffにしているためサンプルテキストを表示しています）</p>
   </td>
 </tr>
 <tr>
@@ -77,8 +77,8 @@ These products below are the results of my learning journey ✨
         <img src="img/okan.png" width="100" />
       </a>
       <h4>オカンですよ</h4>
-      <p>「オカン」による、時間管理と自己管理サポート & ネット依存から脱却するためのタイマーです。</p>
     </div>
+    <p>「オカン」による、時間管理と自己管理サポート & ネット依存から脱却するためのタイマーです。</p>
   </td>
   <td width="33%">
     <div align="center">
@@ -86,8 +86,8 @@ These products below are the results of my learning journey ✨
         <img src="img/poipoi.png" width="200" />
       </a>
       <h4>PoiPoi</h4>
-      <p>「感謝」や「褒め」を自分でポイント発行し送り合う、自律分散型ポイントサービスです。</p>
     </div>
+    <p>「感謝」や「褒め」を自分でポイント発行し送り合う、自律分散型ポイントサービスです。</p>
   </td>
   <td width="33%">
     <div align="center">
@@ -95,9 +95,9 @@ These products below are the results of my learning journey ✨
         <img src="img/todoke.png" width="160" />
       </a>
       <h4>TODOKE</h4>
-      <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
-      （現在有害コメントをはじくAPIはOFFにしてあります）</p>
     </div>
+    <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
+    （現在有害コメントをはじくAPIはOFFにしてあります）</p>
   </td>
 </tr>
 <tr>
@@ -107,8 +107,8 @@ These products below are the results of my learning journey ✨
         <img src="img/taggy.png" width="160" />
       </a>
       <h4>TAGGY</h4>
-      <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
     </div>
+    <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
   </td>
   <td width="33%">
     <div align="center">
@@ -116,9 +116,9 @@ These products below are the results of my learning journey ✨
         <img src="img/felizo.png" width="160" />
       </a>
       <h4>Felizo</h4>
-      <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
-      （DBからすべて60秒で消えます。有害コメントをはじくAPIはOFFにしてあります）</p>
     </div>
+    <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
+    （DBからすべて60秒で消えます。有害コメントをはじくAPIはOFFにしてあります）</p>
   </td>
   <td width="33%">
   </td>
