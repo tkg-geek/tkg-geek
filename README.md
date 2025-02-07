@@ -22,11 +22,11 @@ These products below are the results of my learning journey ✨
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,php,laravel,docker,mysql,firebase,androidstudio,apple,ai,ps,figma)](https://skillicons.dev)
 
-<h3 align="left">Stats:</h3>
+## Stats:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tkg-geek&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tkg-geek&theme=github)
@@ -34,7 +34,7 @@ These products below are the results of my learning journey ✨
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tkg-geek&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tkg-geek&theme=github)
 
-<h3 align="left">My Product:</h3>
+## My Products:
 
 <div align="left">
   <a href="https://tkg-geek.github.io/cheeseacademy/">
@@ -108,7 +108,7 @@ These products below are the results of my learning journey ✨
   （DBからすべて60秒で消えます。有害コメントをはじくAPIはOFFにしてあります）</p>
 </div>
 
-<h3 align="left">SNS:</h3>
+## SNS:
 <p align="left">
 <a href="https://twitter.com/tkg_geek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tkg_geek" height="30" width="40" /></a>
 <a href="https://qiita.com/tkg_geek" target="blank"><img align="center" src="https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-ec5ba42a24ae923f16825592efdc356f.png" alt="tkg_geek" height="30" width="30" /></a>
