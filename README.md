@@ -35,7 +35,7 @@ These products below are the results of my learning journey ✨
 ## My Products:
 
 <table style="background-color: white;">
-<tr>
+<tr style="background-color: white;">
   <td width="33%">
     <div align="center">
       <a href="https://tkg-geek.github.io/cheeseacademy/" target="_blank">
@@ -70,7 +70,7 @@ These products below are the results of my learning journey ✨
     （現在APIをoffにしているためサンプルテキストを表示しています）</p>
   </td>
 </tr>
-<tr>
+<tr style="background-color: white;">
   <td width="33%">
     <div align="center">
       <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo" target="_blank">
@@ -100,7 +100,7 @@ These products below are the results of my learning journey ✨
     （現在有害コメントをはじくAPIはOFFにしてあります）</p>
   </td>
 </tr>
-<tr>
+<tr style="background-color: white;">
   <td width="33%">
     <div align="center">
       <a href="https://tkgeek.sakura.ne.jp/taggy/" target="_blank">
