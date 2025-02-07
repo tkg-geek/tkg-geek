@@ -34,7 +34,7 @@ These products below are the results of my learning journey ✨
 
 ## My Products:
 
-<table>
+<table style="background-color: white;">
 <tr>
   <td width="33%">
     <div align="center">
@@ -60,7 +60,7 @@ These products below are the results of my learning journey ✨
     </p>
   </td>
   <td width="33%">
-    <div align="center">
+    <div align="center"></div>
       <a href="https://tkgeek.sakura.ne.jp/chat01/" target="_blank">
         <img src="img/chatTKG.png" width="160" />
       </a>
