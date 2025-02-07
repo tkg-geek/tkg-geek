@@ -64,7 +64,7 @@ These products below are the results of my learning journey ✨
   <td width="33%">
     <div align="center">
       <a href="https://tkgeek.sakura.ne.jp/chat01/" target="_blank">
-        <img src="img/chatTKG.png" width="200" />
+        <img src="img/chatTKG.png" width="160" />
       </a>
       <h4>Chat TKG</h4>
       <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
