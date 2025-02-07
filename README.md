@@ -44,7 +44,7 @@ These products below are the results of my learning journey ✨
         <img src="img/cheeseacademy.jpg" width="220" />
       </a>
       <h4>Cheese Academy</h4>
-      <p>チーズ界の革命時によるチーズスクール（架空）のLP。</p>
+      <p>チーズ界の革命児によるチーズスクール（架空）のLP。</p>
     </div>
   </td>
   <td width="33%">
