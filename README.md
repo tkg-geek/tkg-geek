@@ -36,77 +36,96 @@ These products below are the results of my learning journey ✨
 
 ## My Products:
 
-<div align="left">
-  <a href="https://tkg-geek.github.io/cheeseacademy/">
-    <img src="img/cheeseacademy.jpg" width="220" />
-  </a>
-  <h4>Cheese Academy</h4>
-  <p>チーズ界の革命時によるチーズスクール（架空）のLP。</p>
-</div>
-
-<div align="left">
-  <a href="https://tkgeek.sakura.ne.jp/one_sentence/">
-    <img src="img/onesentence.png" width="200" />
-  </a>
-  <h4>one sentence</h4>
-  <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
-  <p>
-    <a href="https://tkgeek.sakura.ne.jp/one_sentence/">[PWA]</a> |
-    <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852">[iOS]</a> |
-    [Android]（審査中）
-  </p>
-</div>
-
-<div align="left">
-  <a href="https://tkgeek.sakura.ne.jp/chat01/">
-    <img src="img/chatTKG.png" width="200" />
-  </a>
-  <h4>Chat TKG</h4>
-  <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
-  （現在APIをoffにしているためサンプルテキストを表示しています）</p>
-</div>
-
-<div align="left">
-  <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo">
-    <img src="img/okan.png" width="100" />
-  </a>
-  <h4>オカンですよ</h4>
-  <p>「オカン」による、時間管理と自己管理サポート & ネット依存から脱却するためのタイマーです。</p>
-</div>
-
-<div align="left"></div>
-  <a href="https://poipoi-zd20.onrender.com/">
-    <img src="img/poipoi.png" width="200" />
-  </a>
-  <h4>PoiPoi</h4>
-  <p>「感謝」や「褒め」を自分でポイント発行し送り合う、自律分散型ポイントサービスです。</p>
-</div>
-
-<div align="left">
-  <a href="https://tkgeek.sakura.ne.jp/todoke2/">
-    <img src="img/todoke.png" width="160" />
-  </a>
-  <h4>TODOKE</h4>
-  <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
-  （現在有害コメントをはじくAPIはOFFにしてあります）</p>
-</div>
-
-<div align="left">
-  <a href="https://tkgeek.sakura.ne.jp/taggy/">
-    <img src="img/taggy.png" width="160" />
-  </a>
-  <h4>TAGGY</h4>
-  <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
-</div>
-
-<div align="left">
-  <a href="https://tkgeek.sakura.ne.jp/felizo/">
-    <img src="img/felizo.png" width="160" />
-  </a>
-  <h4>Felizo</h4>
-  <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
-  （DBからすべて60秒で消えます。有害コメントをはじくAPIはOFFにしてあります）</p>
-</div>
+<table>
+<tr>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkg-geek.github.io/cheeseacademy/">
+        <img src="img/cheeseacademy.jpg" width="220" />
+      </a>
+      <h4>Cheese Academy</h4>
+      <p>チーズ界の革命時によるチーズスクール（架空）のLP。</p>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkgeek.sakura.ne.jp/one_sentence/">
+        <img src="img/onesentence.png" width="200" />
+      </a>
+      <h4>one sentence</h4>
+      <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
+      <p>
+        <a href="https://tkgeek.sakura.ne.jp/one_sentence/">[PWA]</a> |
+        <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852">[iOS]</a> |
+        [Android]（審査中）
+      </p>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkgeek.sakura.ne.jp/chat01/">
+        <img src="img/chatTKG.png" width="200" />
+      </a>
+      <h4>Chat TKG</h4>
+      <p>ネガティブなひと言をすべて「T・K・G」の3文でポジティブに返信してくれる"人口無能"チャットです。<br>
+      （現在APIをoffにしているためサンプルテキストを表示しています）</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td width="33%">
+    <div align="center">
+      <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo">
+        <img src="img/okan.png" width="100" />
+      </a>
+      <h4>オカンですよ</h4>
+      <p>「オカン」による、時間管理と自己管理サポート & ネット依存から脱却するためのタイマーです。</p>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <a href="https://poipoi-zd20.onrender.com/">
+        <img src="img/poipoi.png" width="200" />
+      </a>
+      <h4>PoiPoi</h4>
+      <p>「感謝」や「褒め」を自分でポイント発行し送り合う、自律分散型ポイントサービスです。</p>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkgeek.sakura.ne.jp/todoke2/">
+        <img src="img/todoke.png" width="160" />
+      </a>
+      <h4>TODOKE</h4>
+      <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
+      （現在有害コメントをはじくAPIはOFFにしてあります）</p>
+    </div>
+  </td>
+</tr>
+<tr>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkgeek.sakura.ne.jp/taggy/">
+        <img src="img/taggy.png" width="160" />
+      </a>
+      <h4>TAGGY</h4>
+      <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
+    </div>
+  </td>
+  <td width="33%">
+    <div align="center">
+      <a href="https://tkgeek.sakura.ne.jp/felizo/">
+        <img src="img/felizo.png" width="160" />
+      </a>
+      <h4>Felizo</h4>
+      <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
+      （DBからすべて60秒で消えます。有害コメントをはじくAPIはOFFにしてあります）</p>
+    </div>
+  </td>
+  <td width="33%">
+  </td>
+</tr>
+</table>
 
 ## SNS:
 <p align="left">
