@@ -15,7 +15,7 @@ These products below are the results of my learning journey ✨
     <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/contributions.svg" /></a>
   <a href="https://zenn.dev/tkgeek">
     <img height="20" src="https://badgen.org/img/zenn/tkgeek/articles?style=plastic" alt="Articles" /></a>
-  <a href="http://x.com/tkg-geek">
+  <a href="http://x.com/tkg_geek">
     <img height="20" src="https://img.shields.io/twitter/follow/tkg-geek?style=flat&logo=x" /></a>
 
 </p>
