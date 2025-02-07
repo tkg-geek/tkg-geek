@@ -7,15 +7,17 @@ These products below are the results of my learning journey ✨
 <p align="left">
   <a href="https://github.com/tkg-geek/tkg-geek/">
     <img src="https://komarev.com/ghpvc/?username=tkg-geek" alt="tkg-geek" /></a>
-  <a href="https://gitstar-ranking.com/tkg-geek"><img height="20" src="https://img.shields.io/endpoint?label=star ranking&logo=github&style=flat&url=https%3A%2F%2Fgitstar-ranking.com%2Fusers%2Fyutkat%2Fshields" /></a>
-  <a href="http://twitter.com/tkg_geek">
-    <img height="20" src="https://img.shields.io/twitter/follow/tkg_geek?label=Twitter&logo=twitter&style=flat" /></a>
   <a href="https://github.com/tkg-geek">
     <img height="20" src="https://img.shields.io/github/followers/tkg-geek?label=follow&logo=github&style=flat" /></a>
   <a href="http://qiita.com/tkg_geek">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/posts.svg" /></a>
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/posts.svg" /></a>  
   <a href="http://qiita.com/tkg_geek">
     <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/contributions.svg" /></a>
+  <a href="https://zenn.dev/tkgeek">
+    <img height="20" src="https://badgen.org/img/zenn/tkgeek/articles?style=plastic" alt="Articles" /></a>
+  <a href="http://x.com/tkg-geek">
+    <img height="20" src="https://img.shields.io/twitter/follow/tkg-geek?style=flat&logo=x" /></a>
+
 </p>
 
 ## Languages and Tools:
