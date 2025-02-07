@@ -1,7 +1,28 @@
 ### Hi 👋, I'm TKG
 
-I'm a Japanese developer aspiring to be a Hustler.<br>Currently learning React.<br>
-All products are the results of my learning journey.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+
+I'm a Japanese developer who loves creating fun and useful apps! 🚀<br>
+Currently learning at G's ACADEMY.<br>
+These products below are the results of my learning journey ✨
+
+<p align="left">
+  <a href="https://github.com/tkg-geek/tkg-geek/">
+    <img src="https://komarev.com/ghpvc/?username=tkg-geek" alt="tkg-geek" />
+  </a>
+  <a href="http://twitter.com/tkg_geek">
+    <img height="20" src="https://img.shields.io/twitter/follow/tkg_geek?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/tkg-geek">
+    <img height="20" src="https://img.shields.io/github/followers/tkg-geek?label=follow&logo=github&style=flat" />
+  </a>
+  <a href="http://qiita.com/tkg_geek">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/posts.svg" />
+  </a>
+  <a href="http://qiita.com/tkg_geek">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/tkg_geek/contributions.svg" />
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -19,7 +40,7 @@ All products are the results of my learning journey.
 
 <div align="left">
   <a href="https://tkg-geek.github.io/cheeseacademy/">
-    <img src="img/cheeseacademy.jpg" width="200" />
+    <img src="img/cheeseacademy.jpg" width="220" />
   </a>
   <h4>Cheese Academy</h4>
   <p>チーズ界の革命時によるチーズスクール（架空）のLP。</p>
@@ -33,7 +54,7 @@ All products are the results of my learning journey.
   <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
   <p>
     <a href="https://tkgeek.sakura.ne.jp/one_sentence/">[PWA]</a> |
-    <a href="https://apps.apple.com/us/app/one-sentence-app/id6741406852">[iOS]（公開済）</a> |
+    <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852">[iOS]</a> |
     [Android]（審査中）
   </p>
 </div>
@@ -65,7 +86,7 @@ All products are the results of my learning journey.
 
 <div align="left">
   <a href="https://tkgeek.sakura.ne.jp/todoke2/">
-    <img src="img/todoke.png" width="200" />
+    <img src="img/todoke.png" width="160" />
   </a>
   <h4>TODOKE</h4>
   <p>普段人目に触れないちょっとした取り組みへの感謝をシェアするポジティブな口コミサイトです。<br>
@@ -74,7 +95,7 @@ All products are the results of my learning journey.
 
 <div align="left">
   <a href="https://tkgeek.sakura.ne.jp/taggy/">
-    <img src="img/taggy.png" width="200" />
+    <img src="img/taggy.png" width="160" />
   </a>
   <h4>TAGGY</h4>
   <p>「モノに想いを宿す」というコンセプトの、NFCタグで思い出を記録できる書き込み&シェアサービスです。</p>
@@ -82,7 +103,7 @@ All products are the results of my learning journey.
 
 <div align="left">
   <a href="https://tkgeek.sakura.ne.jp/felizo/">
-    <img src="img/felizo.png" width="200" />
+    <img src="img/felizo.png" width="160" />
   </a>
   <h4>Felizo</h4>
   <p>ネットの総監視社会に対し、自由な発言を促す「ワンタイムディスカッションサービス」です。<br>
