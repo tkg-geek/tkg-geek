@@ -40,7 +40,7 @@ These products below are the results of my learning journey ✨
 <tr>
   <td width="33%">
     <div align="center">
-      <a href="https://tkg-geek.github.io/cheeseacademy/">
+      <a href="https://tkg-geek.github.io/cheeseacademy/" target="_blank">
         <img src="img/cheeseacademy.jpg" width="220" />
       </a>
       <h4>Cheese Academy</h4>
@@ -49,21 +49,21 @@ These products below are the results of my learning journey ✨
   </td>
   <td width="33%">
     <div align="center">
-      <a href="https://tkgeek.sakura.ne.jp/one_sentence/">
+      <a href="https://tkgeek.sakura.ne.jp/one_sentence/" target="_blank">
         <img src="img/onesentence.png" width="200" />
       </a>
       <h4>one sentence</h4>
       <p>ちょっとしたひと言を伝えるフルスクリーンAppです。</p>
       <p>
-        <a href="https://tkgeek.sakura.ne.jp/one_sentence/">[PWA]</a> |
-        <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852">[iOS]</a> |
+        <a href="https://tkgeek.sakura.ne.jp/one_sentence/" target="_blank">[PWA]</a> |
+        <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852" target="_blank">[iOS]</a> |
         [Android]（審査中）
       </p>
     </div>
   </td>
   <td width="33%">
     <div align="center">
-      <a href="https://tkgeek.sakura.ne.jp/chat01/">
+      <a href="https://tkgeek.sakura.ne.jp/chat01/" target="_blank">
         <img src="img/chatTKG.png" width="200" />
       </a>
       <h4>Chat TKG</h4>
@@ -75,7 +75,7 @@ These products below are the results of my learning journey ✨
 <tr>
   <td width="33%">
     <div align="center">
-      <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo">
+      <a href="https://chromewebstore.google.com/detail/%E3%82%AA%E3%82%AB%E3%83%B3%E3%81%A7%E3%81%99%E3%82%88/hkiohfmflpbkejdopiblceaefecbbmlo" target="_blank">
         <img src="img/okan.png" width="100" />
       </a>
       <h4>オカンですよ</h4>
@@ -84,7 +84,7 @@ These products below are the results of my learning journey ✨
   </td>
   <td width="33%">
     <div align="center">
-      <a href="https://poipoi-zd20.onrender.com/">
+      <a href="https://poipoi-zd20.onrender.com/" target="_blank">
         <img src="img/poipoi.png" width="200" />
       </a>
       <h4>PoiPoi</h4>
@@ -93,7 +93,7 @@ These products below are the results of my learning journey ✨
   </td>
   <td width="33%">
     <div align="center">
-      <a href="https://tkgeek.sakura.ne.jp/todoke2/">
+      <a href="https://tkgeek.sakura.ne.jp/todoke2/" target="_blank">
         <img src="img/todoke.png" width="160" />
       </a>
       <h4>TODOKE</h4>
@@ -105,7 +105,7 @@ These products below are the results of my learning journey ✨
 <tr>
   <td width="33%">
     <div align="center">
-      <a href="https://tkgeek.sakura.ne.jp/taggy/">
+      <a href="https://tkgeek.sakura.ne.jp/taggy/" target="_blank">
         <img src="img/taggy.png" width="160" />
       </a>
       <h4>TAGGY</h4>
@@ -114,7 +114,7 @@ These products below are the results of my learning journey ✨
   </td>
   <td width="33%">
     <div align="center">
-      <a href="https://tkgeek.sakura.ne.jp/felizo/">
+      <a href="https://tkgeek.sakura.ne.jp/felizo/" target="_blank">
         <img src="img/felizo.png" width="160" />
       </a>
       <h4>Felizo</h4>
