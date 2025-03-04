@@ -56,7 +56,8 @@ These products below are the results of my learning journey ✨
     <p>
       <a href="https://tkgeek.sakura.ne.jp/one_sentence/" target="_blank">[PWA]</a> |
       <a href="https://apps.apple.com/ja/app/one-sentence-app/id6741406852" target="_blank">[iOS]</a> |
-      [Android]（審査中）
+      <a href="https://play.google.com/store/apps/details?id=jp.ne.tkgeek.one_sentence" target="_blank">
+      [Android]
     </p>
   </td>
   <td width="33%">
